@@ -16,3 +16,4 @@ This is a full-stack React starter app, meant for practicing and prototyping.
 See the [package.json file](./package.json) for other scripts.
 
 **Project created with [@bloomtools/react@0.1.41](https://github.com/bloominstituteoftechnology/npm-tools-react) and Node v20.15.0 on Mon, August 05, 2024 at 04:47 PM**
+# todo
